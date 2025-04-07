@@ -3,7 +3,6 @@ import time
 import datetime
 import pytesseract
 import cv2
-import numpy as np
 from PIL import Image
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
